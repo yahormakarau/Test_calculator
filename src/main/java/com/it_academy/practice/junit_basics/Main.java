@@ -1,5 +1,7 @@
 package com.it_academy.practice.junit_basics;
 
+import org.apache.commons.lang3.ArrayUtils;
+
 import java.util.Scanner;
 
 public class Main {
